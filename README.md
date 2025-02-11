@@ -62,15 +62,7 @@ Decision Trees and Random Forests are widely used machine learning models for **
 - **Handling class imbalance** by augmenting underrepresented classes.
 - **Deploying as a real-time predictive system** for F1 race strategies.
 
-## 👥 Contributors
-
-- **Malhar Ghogare** *(GitHub: [@YourUsername](https://github.com/YourUsername))*
-- **Shubham Gaur**
-
 ## 📜 License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
----
-
-Let me know if you'd like any changes! 🚀
